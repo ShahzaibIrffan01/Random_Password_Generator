@@ -1,6 +1,6 @@
 # Random Password Generator
 
-## [Demo] (https://github.com/ShahzaibIrffan01/Random_Password_Generator.git)
+## [Demo Live](https://github.com/ShahzaibIrffan01/Random_Password_Generator.git)
 
 ### Features
 
@@ -11,7 +11,7 @@
 
 ### Technologies Used
 - html
--css
--Javascript
+- css
+- Javascript
 
-[Preview img](/preview.png)
+![Preview img](/preview.png)
